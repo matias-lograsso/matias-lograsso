@@ -7,8 +7,9 @@ I recently completed a five-year Astronomy degree at the National University of 
 ## Highlights
 
 - Astronomy graduate with strong training in statistics and quantitative analysis.
-- Built end-to-end machine learning and analytics projects using Python and SQL.
+- Freelance experience working as a Data Scientist & Analyst.
 - Research experience involving large-scale data analysis and hypothesis testing.
+- Built end-to-end machine learning and analytics projects using Python and SQL.
 - Fluent English (C1).
 
 
@@ -20,6 +21,7 @@ I recently completed a five-year Astronomy degree at the National University of 
 - R
 
 **Visualization**
+- Power BI
 - Tableau
 - Matplotlib
 - Seaborn
@@ -34,6 +36,7 @@ I recently completed a five-year Astronomy degree at the National University of 
 - Jupyter Notebooks
 - Google Sheets
 - Git
+- Power BI, Power Query, DAX.
 
 ## Featured Projects
 
@@ -86,7 +89,7 @@ Strong background in:
 - Data Analysis
 
 ## Certifications
-
+- [Santander Open Academy Power BI Intermediate: Data Analysis and Modeling](https://www.linkedin.com/in/matias-lo-grasso/overlay/Certifications/1042948798/treasury?profileId=ACoAAFu6jKABwYY1hS7FH_dyPzQmv8f2Cby_alM)
 - [Google Data Analytics Professional Certificate](https://www.coursera.org/account/accomplishments/specialization/PGV4Q0KWJHNW)
 - [Google AI Essentials](https://www.coursera.org/account/accomplishments/specialization/EH7B5NE3FF7C)
 - [Google Prompting Essentials](https://www.coursera.org/account/accomplishments/specialization/13WVZPDVM3G7)
